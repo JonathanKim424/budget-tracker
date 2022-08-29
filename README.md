@@ -1,4 +1,4 @@
-# budget-tracker
+# Budget Tracker
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
@@ -18,6 +18,8 @@ The application can be used and viewed locally or online hosted by Heroku. For l
 The application can be accessed online hosted by Heroku. For local usage, the application can be started with 'npm start'. The webpage can be viewed at http://localhost:3001/index.html.
 
 ![Application Screenshot](./assets/images/application-screenshot.jpg?raw=tru "Application Screenshot")
+
+Heroku Link: https://shrouded-refuge-68137.herokuapp.com/
 
 ## Tests
 There are no tests for this application.
